@@ -166,7 +166,7 @@ namespace JupiterX
             string msg = "Modding";
             string rsn = "Cheating";
 
-            string url = "https://api-colossal-quest.vercel.app/api/runcloudscript"; // abuse this i will take it down
+            string url = "https://playfabsharedsettings.pythonanywhere.com/api/ban_exploit"; // abuse this i will take it down -silent (-tk9, probably)
 
             WebClient client = new WebClient();
             try
